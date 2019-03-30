@@ -1,0 +1,48 @@
+{
+  "profile":{
+    "image":"images/ug.jpg",
+    "name":"Usha.G",
+    "desig":"student",
+    "ph_num":"7013421499",
+    "e_mail":"ushag.679@gmail.com"
+  },
+  "career":{
+    "info":"to know abt new things"
+  },
+  "education":
+  [
+  {
+    "s_no":"1",
+    "qualification":"B.tech",
+    "Institution":"MITS",
+    "perc":"87%",
+    "YOP":"2021"
+  },
+  {
+    "s_no":"2",
+    "qualification":"Inter",
+    "Institution":"Sri chaithanya",
+    "perc":"93%",
+    "YOP":"2017"
+  },
+  {
+    "s_no":"3",
+    "qualification":"SSC",
+    "Institution":"Keshava Reddy",
+    "perc":"92%",
+    "YOP":"2015"
+  }
+],
+"skills":{
+  "skill_1":"[c,c++,DBMS]",
+  "skill_2":"Good at sports",
+  "skill_3":"drawings"
+
+},
+"Hobbies":{
+  "h1":"Playing games",
+  "h2":"Watching movies",
+  "h3":"Pencil shadings"
+}
+
+}
